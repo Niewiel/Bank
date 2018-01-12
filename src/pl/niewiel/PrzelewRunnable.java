@@ -24,7 +24,6 @@ public class PrzelewRunnable implements Runnable {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-
         }
     }
 }
